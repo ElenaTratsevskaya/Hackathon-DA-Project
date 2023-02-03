@@ -48,9 +48,20 @@ Excel таблица с данными по категориям товара,  
 ![ГитХаб_Хакатон_06](https://user-images.githubusercontent.com/110056199/216053146-836d815f-37ea-41a8-a744-38e045a0582c.jpg)
 <br>
 ![ГитХаб_Хакатон_07](https://user-images.githubusercontent.com/110056199/216053220-c1926462-f377-4679-aaf7-acde2293dd3a.jpg)
+<br><br>
+*фрагмент*<br>
+![ГитХаб_Хакатон_08](https://user-images.githubusercontent.com/110056199/216664854-26672899-a13a-4b3b-af68-0aa5a509cb53.jpg)
+<br><br>
+Анализ выбранного ТНВЭД 6 в разрезе ТНВЭД 10
+<br><br>
+*фрагмент*<br>
+![ГитХаб_Хакатон_09](https://user-images.githubusercontent.com/110056199/216665337-fc0e38e0-d0bd-44b1-9897-185e54a58b87.jpg)
 <br>
-
-Анализ выбранного ТНВЭД 6 в разрезе ТНВЭД 10<br><br>		
-
-
-
+<br>
+*фрагмент*<br>
+![ГитХаб_Хакатон_10](https://user-images.githubusercontent.com/110056199/216665801-96c30d58-1c7e-4858-85f0-2d9df3d2404c.jpg)<br>
+<br>
+**ЗАКЛЮЧЕНИЕ**
+<br>
+*фрагмент*<br>
+![ГитХаб_Хакатон_11](https://user-images.githubusercontent.com/110056199/216666394-47419a26-0989-4ff5-81c8-16ecdd455393.jpg)
