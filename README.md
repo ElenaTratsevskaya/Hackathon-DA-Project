@@ -1,6 +1,12 @@
 # Hackathon-DA
-Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС
+Анализ наиболее уязвимых мест в выпадающем из-за санкций экспорте Москвы на основе данных ФТС<br>
 
+<div id="header" align="center">
+<img src="https://static.tildacdn.com/tild6662-6430-4631-b230-313337633966/moscow_export.jpg" title="МЭЦ" width="193" height="40"/>&nbsp;
+<img src="https://images.milledcdn.com/2021-08-27/42gDLZTDMQ7ZYG6c/zDl4lydjVqUn.png" title="sf" width="176" height="40"/>&nbsp;  
+<img src="https://pvtest.ru/wp-content/uploads/8/c/5/8c5c3e565fdff8cc07b3e5885c5ce9b2.jpeg" title="google" width="80" height="40"/>&nbsp;
+</div>
+<br><br>
 Хакатон проходил 23-25 декабря 2022 г.<br><br>
 - выступала как тимлид: сбор участников в команду,
 взаимодействие с организаторами, планирование работы,
