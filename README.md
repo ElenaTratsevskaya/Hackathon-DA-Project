@@ -4,7 +4,7 @@
 <div id="header" align="center">
 <img src="https://static.tildacdn.com/tild6662-6430-4631-b230-313337633966/moscow_export.jpg" title="МЭЦ" width="193" height="40"/>&nbsp;
 <img src="https://images.milledcdn.com/2021-08-27/42gDLZTDMQ7ZYG6c/zDl4lydjVqUn.png" title="sf" width="176" height="40"/>&nbsp;  
-<img src="https://avatars.mds.yandex.net/i?id=11569b90ca122039fc839443835a917ef4b21168-5455692-images-thumbs&n=13" title="google" width="40" height="80"/>&nbsp;
+<img src="https://avatars.mds.yandex.net/i?id=d84c570408167be47269d196dd0a0539_l-7571629-images-thumbs&n=13" title="google" width="92" height="84"/>&nbsp;
 </div>
 <br><br>
 Хакатон проходил 23-25 декабря 2022 г.<br><br>
